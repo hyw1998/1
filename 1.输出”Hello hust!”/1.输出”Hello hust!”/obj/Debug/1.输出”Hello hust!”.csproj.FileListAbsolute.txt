@@ -1,0 +1,7 @@
+C:\Users\82798\Desktop\暑期训练营\预习作业\1.输出”Hello hust!”\1.输出”Hello hust!”\bin\Debug\1.输出”Hello hust!”.exe.config
+C:\Users\82798\Desktop\暑期训练营\预习作业\1.输出”Hello hust!”\1.输出”Hello hust!”\bin\Debug\1.输出”Hello hust!”.exe
+C:\Users\82798\Desktop\暑期训练营\预习作业\1.输出”Hello hust!”\1.输出”Hello hust!”\bin\Debug\1.输出”Hello hust!”.pdb
+C:\Users\82798\Desktop\暑期训练营\预习作业\1.输出”Hello hust!”\1.输出”Hello hust!”\obj\Debug\1.输出”Hello hust!”.csprojAssemblyReference.cache
+C:\Users\82798\Desktop\暑期训练营\预习作业\1.输出”Hello hust!”\1.输出”Hello hust!”\obj\Debug\1.输出”Hello hust!”.csproj.CoreCompileInputs.cache
+C:\Users\82798\Desktop\暑期训练营\预习作业\1.输出”Hello hust!”\1.输出”Hello hust!”\obj\Debug\1.输出”Hello hust!”.exe
+C:\Users\82798\Desktop\暑期训练营\预习作业\1.输出”Hello hust!”\1.输出”Hello hust!”\obj\Debug\1.输出”Hello hust!”.pdb
